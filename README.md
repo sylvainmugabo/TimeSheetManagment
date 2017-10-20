@@ -1,4 +1,4 @@
-# TimeSheetManagment
+# Time Sheet Managment
 This repos is for development for Timesheet mananagment application.
 Technologies
 
